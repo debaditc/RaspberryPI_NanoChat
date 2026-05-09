@@ -5,7 +5,7 @@ Edit this file to customise the app without touching any logic.
 """
 
 # ── App identity ───────────────────────────────────────────────
-APP_TITLE       = "Deb's Nano PI Chat"
+APP_TITLE       = "Deb's PI Voice Chat"
 APP_VERSION     = "3.0.0"
 
 # ── AI model ───────────────────────────────────────────────────
