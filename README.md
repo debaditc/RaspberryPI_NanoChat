@@ -122,7 +122,7 @@ Place the extracted folder (`vosk-model-small-en-us-0.15/`) in the **same direct
 ## 🗂️ Project Structure
 
 ```
-raspberrypi_voicechat
+RaspberryPI_VoiceChat-main
 ├── main.py                          # Entry point — run this
 ├── config.py                        # All settings & colour palette
 │
@@ -199,7 +199,7 @@ ollama serve &
 **Step 2 — Launch Raspberry PI Chat:**
 
 ```bash
-cd raspberrypi_voicechat
+cd RaspberryPI_VoiceChat-main
 python3 main.py
 ```
 
