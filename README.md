@@ -1,6 +1,6 @@
 # ✦ Deb's Raspberry PI5 - Nano PI Chat
 
-> **A glassmorphism AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
+> **An AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![Ollama](https://img.shields.io/badge/Ollama-Local%20LLM-black?style=flat-square)](https://ollama.ai)
