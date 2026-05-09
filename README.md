@@ -1,4 +1,4 @@
-# ✦ Deb's Raspberry PI5 - PI Chat
+# ✦ Deb's Raspberry PI5 - Voice Chat
 
 > **An AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
 
@@ -13,7 +13,7 @@
 
 ## 📖 What Is It?
 
-**Deb's PI Chat** is a fully local, voice-driven AI chat assistant designed to run on a **Raspberry Pi**. It combines:
+**Deb's PI Voice Chat** is a fully local, voice-driven AI chat assistant designed to run on a **Raspberry Pi**. It combines:
 
 - 🎙️ **Offline speech recognition** via [Vosk](https://alphacephei.com/vosk/) — no cloud, no API key
 - 🧠 **On-device LLM inference** via [Ollama](https://ollama.ai) with streaming output
@@ -122,7 +122,7 @@ Place the extracted folder (`vosk-model-small-en-us-0.15/`) in the **same direct
 ## 🗂️ Project Structure
 
 ```
-raspberrypi_nanochat/
+raspberrypi_voicechat
 ├── main.py                          # Entry point — run this
 ├── config.py                        # All settings & colour palette
 │
@@ -199,7 +199,7 @@ ollama serve &
 **Step 2 — Launch Raspberry PI Chat:**
 
 ```bash
-cd raspberrypi_nanochat
+cd raspberrypi_voicechat
 python3 main.py
 ```
 
@@ -309,7 +309,7 @@ SOFTWARE.
 | [requests](https://requests.readthedocs.io/) | Apache 2.0 |
 
 ### Cite
-If you find RaspberryPI chat helpful in your research cite simply as:
+If you find RaspberryPI Voice chat helpful in your research cite simply as:
 
 ```bibtex
 @misc{RaspberryPI_Chat,
@@ -317,7 +317,7 @@ If you find RaspberryPI chat helpful in your research cite simply as:
   title = {Voice-Activated AI for Raspberry Pi},
   year = {2026},
   publisher = {GitHub},
-  url = {https://github.com/debaditc/RaspberryPI_Chat}
+  url = {https://github.com/debaditc/RaspberryPI_VoiceChat}
 }
 ```
 ---
