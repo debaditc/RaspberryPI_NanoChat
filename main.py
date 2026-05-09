@@ -1,5 +1,5 @@
 """
-main.py — Entry point for Deb's Nano PI Chat.
+main.py — Entry point for Deb's Raspberry PI Voice Chat
 
 Usage
 -----
