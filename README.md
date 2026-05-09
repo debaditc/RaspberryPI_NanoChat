@@ -1,4 +1,4 @@
-# ✦ Deb's Nano PI Chat
+# ✦ Deb's Raspberry PI5 - Nano PI Chat
 
 > **A glassmorphism AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
 
