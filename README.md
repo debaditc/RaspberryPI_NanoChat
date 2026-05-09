@@ -1,4 +1,4 @@
-# ✦ Deb's Raspberry PI5 - Nano PI Chat
+# ✦ Deb's Raspberry PI5 - PI Chat
 
 > **An AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
 
@@ -13,7 +13,7 @@
 
 ## 📖 What Is It?
 
-**Deb's Nano PI Chat** is a fully local, voice-driven AI chat assistant designed to run on a **Raspberry Pi**. It combines:
+**Deb's PI Chat** is a fully local, voice-driven AI chat assistant designed to run on a **Raspberry Pi**. It combines:
 
 - 🎙️ **Offline speech recognition** via [Vosk](https://alphacephei.com/vosk/) — no cloud, no API key
 - 🧠 **On-device LLM inference** via [Ollama](https://ollama.ai) with streaming output
@@ -156,7 +156,7 @@ raspberrypi_nanochat/
 All settings live in **`config.py`** — edit that one file to customise the app:
 
 ```python
-APP_TITLE       = "Deb's Nano PI Chat"              # Window title (Change it accordingly)
+APP_TITLE       = "Deb's Raspberry PI Chat"              # Window title (Change it accordingly)
 MODEL_NAME      = "qwen2:0.5b"                      # Ollama model to use
 VOSK_MODEL_PATH = "vosk-model-small-en-us-0.15"     # Path to Vosk model folder
 LISTEN_SECONDS  = 6                                  # How long to record speech
@@ -196,7 +196,7 @@ python3 -c "import sounddevice as sd; print(sd.query_devices())"
 ollama serve &
 ```
 
-**Step 2 — Launch NanoChat:**
+**Step 2 — Launch Raspberry PI Chat:**
 
 ```bash
 cd nanochat
