@@ -199,7 +199,7 @@ ollama serve &
 **Step 2 — Launch Raspberry PI Chat:**
 
 ```bash
-cd nanochat
+cd raspberrypi_nanochat
 python3 main.py
 ```
 
@@ -252,7 +252,6 @@ The app opens in **fullscreen**. Press `Esc` or tap the `✕` button to exit.
 
 **Vosk model not found**
 - Ensure the folder name exactly matches `VOSK_MODEL_PATH` in `config.py`
-- Provide a full absolute path if needed: `/home/pi/nanochat/vosk-model-small-en-us-0.15`
 
 **Tkinter not available**
 - Install with: `sudo apt install python3-tk`
@@ -309,6 +308,18 @@ SOFTWARE.
 | [numpy](https://numpy.org/) | BSD 3-Clause |
 | [requests](https://requests.readthedocs.io/) | Apache 2.0 |
 
+### Cite
+If you find RaspberryPI chat helpful in your research cite simply as:
+
+```bibtex
+@misc{RaspberryPI_Chat,
+  author = {Debaditya Chakravorty},
+  title = {Voice-Activated AI for Raspberry Pi},
+  year = {2026},
+  publisher = {GitHub},
+  url = {https://github.com/debaditc/RaspberryPI_Chat}
+}
+```
 ---
 
 *Built with ❤️ for Raspberry Pi tinkerers who want powerful AI without the cloud.*
