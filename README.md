@@ -312,7 +312,7 @@ SOFTWARE.
 If you find RaspberryPI Voice chat helpful in your research cite simply as:
 
 ```bibtex
-@misc{RaspberryPI_Chat,
+@misc{RaspberryPI_VoiceChat,
   author = {Debaditya Chakravorty},
   title = {Voice-Activated AI for Raspberry Pi},
   year = {2026},
