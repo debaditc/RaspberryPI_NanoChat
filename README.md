@@ -45,14 +45,14 @@ Everything runs **100% offline** on your local machine. No subscriptions, no dat
 
 | Component | Minimum | Recommended |
 |---|---|---|
-| **Board** | Raspberry Pi 4 (4 GB RAM) | Raspberry Pi 5 (8 GB RAM) |
+| **Board** | Raspberry Pi 5 (8 GB RAM) | Raspberry Pi 5 (8 GB RAM) |
 | **Storage** | 16 GB microSD (Class 10) | 32 GB+ microSD or USB SSD |
-| **Display** | Any HDMI display | 7" touchscreen or larger |
+| **Display** | Any HDMI display | 5" touchscreen or larger |
 | **Microphone** | USB microphone | USB conference mic for better pickup |
 | **Speaker / Audio** | 3.5mm speaker or USB audio | USB speaker with clear playback |
 | **OS** | Raspberry Pi OS (64-bit, Bookworm) | Raspberry Pi OS (64-bit, Bookworm) |
 
-> **⚠️ Note:** Running a local LLM is CPU-intensive. The Pi 4 will work but expect ~5–15 s first-token latency with `qwen2:0.5b`. The Pi 5 is noticeably faster.
+> **⚠️ Note:** Running a local LLM is CPU-intensive. The Pi 5 will work but expect ~5–15 s first-token latency with `qwen2:0.5b`. The Pi 5 is noticeably faster.
 
 ---
 
