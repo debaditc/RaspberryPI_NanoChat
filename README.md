@@ -21,6 +21,7 @@
 - 🎨 **Glassmorphism UI** built in pure Tkinter — animated aurora background, sine-wave voice visualiser, chat bubbles, quick-reply chips, and a collapsible chain-of-thought panel
 
 ![Demo](assets/Deb_Rasperrbypi_VoiceChat.gif)
+
 *A full voice interaction — speak, think, respond, read aloud.*
 
 Everything runs **100% offline** on your local machine. No subscriptions, no data leaves your device.
