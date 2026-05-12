@@ -22,6 +22,9 @@
 
 Everything runs **100% offline** on your local machine. No subscriptions, no data leaves your device.
 
+![End-to-end local inference pipeline flow](pipeline_diagram.png)
+*End to end local inference pipeline flow*
+
 ---
 
 ## ✨ Features at a Glance
