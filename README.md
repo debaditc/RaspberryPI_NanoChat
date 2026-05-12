@@ -14,6 +14,8 @@
 ## 📖 What Is It?
 
 **Deb's PI Voice Chat** is a fully local, voice-driven AI chat assistant designed to run on a **Raspberry Pi**. It combines:
+![Short Demo](assets/Deb_Rasperrbypi_VoiceChat.gif)
+
 
 - 🎙️ **Offline speech recognition** via [Vosk](https://alphacephei.com/vosk/) — no cloud, no API key
 - 🧠 **On-device LLM inference** via [Ollama](https://ollama.ai) with streaming output
