@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Deb's PI Voice Chat" width="600"/>
+</p>
 # ✦ Deb's Raspberry PI5 - Voice Chat
 
 > **An AI voice assistant built for Raspberry Pi — stream-powered, privacy-first, fully offline.**
