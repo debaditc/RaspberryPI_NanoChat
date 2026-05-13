@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Deb's PI Voice Chat" width="600"/>
+  <img src="assets/logo_head.png" alt="Deb's PI Voice Chat" width="600"/>
 </p>
 
 # ✦ Deb's Raspberry PI5 - Voice Chat
